@@ -1,0 +1,65 @@
+{
+    "isFetched": false,
+    "data": [
+        {
+            "name": "Rebecca.Jerde",
+            "salary": 9423,
+            "designation": "Chief",
+            "address": "Downey"
+        },
+        {
+            "name": "Laney.Fisher",
+            "salary": 22276,
+            "designation": "International",
+            "address": "Lake Mariam"
+        },
+        {
+            "name": "Columbus.Hessel44",
+            "salary": 20728,
+            "designation": "Senior",
+            "address": "Abilene"
+        },
+        {
+            "name": "Horacio12",
+            "salary": 20610,
+            "designation": "Chief",
+            "address": "South Rudy"
+        },
+        {
+            "name": "Brandyn.Farrell",
+            "salary": 26446,
+            "designation": "Senior",
+            "address": "Hutchinson"
+        },
+        {
+            "name": "Delfina34",
+            "salary": 728,
+            "designation": "Investor",
+            "address": "Lake Lyda"
+        },
+        {
+            "name": "Anibal34",
+            "salary": 90152,
+            "designation": "Legacy",
+            "address": "Port Rae"
+        },
+        {
+            "name": "Kirsten.DuBuque",
+            "salary": 75489,
+            "designation": "International",
+            "address": "Bergnaumborough"
+        },
+        {
+            "name": "Jeanie.White83",
+            "salary": 15529,
+            "designation": "Customer",
+            "address": "St. Paul"
+        },
+        {
+            "name": "Nels_Goldner",
+            "salary": 39289,
+            "designation": "Human",
+            "address": "New Sheafield"
+        }
+    ]
+}
